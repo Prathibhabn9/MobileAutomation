@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="SDET_Appium.Mobile_assessment_new.Hybridclass">
+        <methods>
+          <include name="TC3"/>
+          <include name="close"/>
+          <include name="TC2"/>
+          <include name="Tc5"/>
+          <include name="Testcase1"/>
+          <include name="TC4"/>
+        </methods>
+      </class> <!-- SDET_Appium.Mobile_assessment_new.Hybridclass -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

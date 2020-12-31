@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="196740" started-at="2020-12-31T17:15:53 IST" finished-at="2020-12-31T17:19:09 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="196740" started-at="2020-12-31T17:15:53 IST" finished-at="2020-12-31T17:19:09 IST">
+      <class name="SDET_Appium.Mobile_assessment_new.Hybridclass">
+        <test-method status="PASS" signature="Testcase1()[pri:0, instance:SDET_Appium.Mobile_assessment_new.Hybridclass@704a52ec]" name="Testcase1" duration-ms="87132" started-at="2020-12-31T17:15:53 IST" finished-at="2020-12-31T17:17:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase1 -->
+        <test-method status="PASS" signature="TC2()[pri:1, instance:SDET_Appium.Mobile_assessment_new.Hybridclass@704a52ec]" name="TC2" duration-ms="24772" started-at="2020-12-31T17:17:20 IST" finished-at="2020-12-31T17:17:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method status="PASS" signature="TC3()[pri:2, instance:SDET_Appium.Mobile_assessment_new.Hybridclass@704a52ec]" name="TC3" duration-ms="17901" started-at="2020-12-31T17:17:45 IST" finished-at="2020-12-31T17:18:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+        <test-method status="PASS" signature="TC4()[pri:3, instance:SDET_Appium.Mobile_assessment_new.Hybridclass@704a52ec]" name="TC4" duration-ms="30660" started-at="2020-12-31T17:18:03 IST" finished-at="2020-12-31T17:18:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC4 -->
+        <test-method status="PASS" signature="Tc5()[pri:4, instance:SDET_Appium.Mobile_assessment_new.Hybridclass@704a52ec]" name="Tc5" duration-ms="36210" started-at="2020-12-31T17:18:33 IST" finished-at="2020-12-31T17:19:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc5 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:SDET_Appium.Mobile_assessment_new.Hybridclass@704a52ec]" name="close" is-config="true" duration-ms="2" started-at="2020-12-31T17:19:09 IST" finished-at="2020-12-31T17:19:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- SDET_Appium.Mobile_assessment_new.Hybridclass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
